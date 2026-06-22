@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="com.tool.statusbarblock">
+        <permission name="android.permission.INTERNAL_SYSTEM_WINDOW"/>
+        <permission name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    </privapp-permissions>
+</permissions>
